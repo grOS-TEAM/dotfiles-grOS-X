@@ -1,0 +1,48 @@
+"" vimperator colorscheme twily
+""
+"" ~/.vimperator/colors/twily.vimp
+
+highlight! CmdLine color: #EBECEE; background: #1A1A1A; 
+highlight! CmdLine>* font-family: "Lemon"; font-size: 8pt; height: 24px;
+highlight! Normal color: #AAABAD; background: #1A1A1A; font-family: "Lemon"; font-size: 8pt;
+highlight! StatusLine color: #AAABAD; background: #1A1A1A; font-family: "Lemon"; font-size: 8pt;
+
+highlight! Bell border: none; background: #1A1A1A;
+highlight! Boolean color: #888888;s
+highlight! CompDesc width: auto; color: #AAABAD;
+highlight! CompItem>* height: auto;
+highlight! CompItem[selected] color: #EBECEE; background: #191A1C;
+highlight! CompTitle background: #191A1C; font-family: "Lemon"; font-size: 8pt;
+highlight! CompTitle>* color: #AAABAD; padding: 2px 4px;
+highlight! ContentSeparator display: -moz-box;
+
+highlight! Disabled color: #888888;
+highlight! Enabled color: #AAABAD;
+highlight! ErrorMsg color: #F56C66; font-family: "Lemon"; font-size: 8pt;
+highlight! Filter color: #888888; background: #55468C;
+highlight! FrameIndicator background: #AAABAD; opacity: 0.5; z-index: 999; position: fixed; top: 0; bottom: 0; left: 0; right: 0;
+
+highlight! HelpNote color: #8859B3;
+highlight! HelpWarning color: #B359A4;
+
+highlight! Hint font-family: "Lemon"; font-size: 8pt; color: #888888; background: #55468c; padding: 1px;
+highlight! HintActive color: #AAABAD; background: #191A1C;
+highlight! HintElem background: transparent;
+highlight! HintImage opacity: 0.5;
+
+highlight! InfoMsg color: #AAABAD;
+highlight! Keyword color: #AAABAD;
+highlight! LineNr color: #888888;
+highlight! NonText color: #888888;
+
+highlight! ModeMsg color: #AAABAD; background: transparent; padding: 0 2px; font-family: "Lemon"; font-size: 8pt;
+highlight! MoreMsg color: #8c8c8c; font-family: "Lemon"; font-size: 8pt;
+
+highlight! PromptText color: #AAABAD; padding-top: 4px;
+highlight! Question color: #AAABAD;
+
+highlight! Title color: #AAABAD;
+highlight! WarningMsg color: #AAABAD;
+
+
+

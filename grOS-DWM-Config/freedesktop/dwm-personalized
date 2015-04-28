@@ -1,0 +1,23 @@
+#!/bin/bash
+
+# Load Fonts
+xset +fp ~/.fonts/ &
+xset fp rehash &
+
+# Load Wallpaper
+nitrogen --restore &
+
+# Load dwmstatus
+dwmstatus &
+
+# Compositor
+compton -cCb -r 6 -o 0.5 -l -8 -t -8 &
+
+# Daemon Apps
+thunar --daemon &
+
+# Fix Java
+wmname LG3D &
+
+# Window Manager
+exec dwm

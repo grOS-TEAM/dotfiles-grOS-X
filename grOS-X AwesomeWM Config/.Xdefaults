@@ -1,0 +1,37 @@
+! Dat XFT settings --------------------------------
+
+Xft.antialias: true
+Xft.hinting: true
+Xft.hintstyle: hintslight
+!Xft.dpi: 96
+Xft.rgba: rgb
+Xft.lcdfilter: lcddefault
+
+! Colors ------------------------
+
+#include "$HOME/colors/v3"
+
+! XFT Fonts --------------------
+
+!URxvt*font:		xft:Droid Sans Mono:Regular:size=8:antialias=true:hinting=true
+!URxvt*imFont:		xft:Droid Sans Mono:Regular:size=8:antialias=true:hinting=true
+!URxvt*boldFont:		xft:Droid Sans Mono:Bold:size=8:antialias=true:hinting=true
+!URxvt*italicFont:	xft:Droid Sans Mono:Italic=size=8:antialias=true:hinting=true
+!URxvt*boldItalicFont:	xft:Droid Sans Mono:Bold:Italic=size=8:antialias=true:hinting=true
+
+! Bitmap Fonts ---------------
+!URxvt*font: -*-uushi-*-*-*-*-11-*-*-*-*-*-*-*
+!URxvt*boldFont:  -*-uushi-*-*-*-*-11-*-*-*-*-*-*-*
+
+!URxvt*font: -*-profont-*-*-*-*-11-*-*-*-*-*-*-*
+!URxvt*boldFont: -*-profont-*-*-*-*-11-*-*-*-*-*-*-*
+
+URxvt*font: -*-lemon-*-*-*-*-*-*-*-*-*-*-*-*
+URxvt*boldFont: -*-lemon-*-*-*-*-*-*-*-*-*-*-*-*
+
+!Urxvt*font:                 -Misc-Fixed-Medium-R-Semicondensed-*-12-110-75-75-C-60-ISO10646-1
+!Urxvt*boldFont:             -Misc-Fixed-Medium-R-Semicondensed-*-12-110-75-75-C-60-ISO10646-1
+
+! Dat URxvt settings -------------------
+URxvt*scrollBar: false
+URxvt*geometry: 70x20

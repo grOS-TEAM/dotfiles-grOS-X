@@ -1,4 +1,4 @@
-1062
+1071
 Anonymice powerline bold italic.ttf -misc-anonymice powerline-bold-i-normal--0-0-0-0-m-0-adobe-standard
 Anonymice powerline bold italic.ttf -misc-anonymice powerline-bold-i-normal--0-0-0-0-m-0-ascii-0
 Anonymice powerline bold italic.ttf -misc-anonymice powerline-bold-i-normal--0-0-0-0-m-0-iso10646-1
@@ -876,13 +876,16 @@ Ubuntu mono derivative powerline.ttf -misc-ubuntu mono derivative powerline-medi
 Ubuntu mono derivative powerline.ttf -misc-ubuntu mono derivative powerline-medium-r-normal--0-0-0-0-m-0-koi8-u
 Ubuntu mono derivative powerline.ttf -misc-ubuntu mono derivative powerline-medium-r-normal--0-0-0-0-m-0-koi8-uni
 Ubuntu mono derivative powerline.ttf -misc-ubuntu mono derivative powerline-medium-r-normal--0-0-0-0-m-0-microsoft-cp1252
+beep.pcf -jmk-beep-medium-r-normal--11-100-75-75-c-60-iso8859-1
 bitocra.pcf -aaron-bitocra-medium-r-normal--11-100-72-72-m-90-iso8859-1
 creep.pcf -gbdfed-creep-regular-r-normal--16-120-96-96-m-4-iso10646-1
 cure.pcf -artwiz-cure-medium-r-normal--11-110-75-75-p-90-iso8859-1
+dash.pcf -misc-dash-medium-r-semicondensed--13-120-75-75-c-60-iso8859-1
 drift.pcf -artwiz-drift-medium-r-normal--10-100-75-75-n-60-iso8859-1
 dweep.pcf -jmk-dweep-medium-r-semicondensed--11-100-75-75-c-50-iso8859-1
 edges.pcf -artwiz-edges-medium-r-normal--10-100-75-75-m-50-iso8859-1
 gelly.pcf -artwiz-gelly-medium-r-normal--10-110-75-75-p-90-iso8859-1
+gmnterm.pcf -gmnbox-gmnterm-medium-r-normal--10-110-75-75-p-50-iso8859-1
 gohufont-11.pcf.gz -gohu-gohufont-medium-r-normal--11-80-100-100-c-60-iso8859-1
 gohufont-11b.pcf.gz -gohu-gohufont-bold-r-normal--11-80-100-100-c-60-iso8859-1
 gohufont-14.pcf.gz -gohu-gohufont-medium-r-normal--14-100-100-100-c-80-iso8859-1
@@ -894,6 +897,10 @@ gohufont-uni-14b.pcf.gz -gohu-gohufont-bold-r-normal--14-100-100-100-c-80-iso106
 gohufont11.pcf -beastie-gohufontmod11-medium-r-normal--11-80-100-100-c-60-iso8859-1
 icons.ttf -misc-icons-medium-r-normal--0-0-0-0-p-0-iso10646-1
 lemon.pcf -benis-lemon-medium-r-normal--10-110-75-75-m-50-iso8859-1
+marathonmod-14-b-r-sc.pcf -nucleus-marathon-bold-r-semicondensed--14-14-75-75-c-60-iso8859-1
+marathonmod-14-b-r.pcf -nucleus-marathon-bold-r-normal--14-14-75-75-c-70-iso8859-1
+marathonmod-14-m-r-sc.pcf -nucleus-marathon-medium-r-semicondensed--14-140-75-75-c-60-iso8859-1
+marathonmod-14-m-r.pcf -nucleus-marathonmod-medium-r-normal--14-140-75-75-c-70-iso8859-1
 nu.pcf -artwiz-nu-medium-r-normal--11-110-75-75-p-90-iso8859-1
 ohsnap6x11b.icons.pcf -misc-ohsnap.icons-bold-r-normal--11-79-100-100-c-60-iso8859-1
 ohsnap6x11b.pcf -misc-ohsnap-bold-r-normal--11-79-100-100-c-60-iso8859-1
@@ -964,6 +971,8 @@ segoeuib.ttf -microsoft-segoe ui-bold-r-normal--0-0-0-0-p-0-koi8-uni
 segoeuib.ttf -microsoft-segoe ui-bold-r-normal--0-0-0-0-p-0-microsoft-cp1252
 segoeuib.ttf -microsoft-segoe ui-bold-r-normal--0-0-0-0-p-0-suneu-greek
 snap.pcf -artwiz-snap-normal-r-normal--10-100-75-75-p-90-iso8859-1
+sq.pcf -chris2-sq-medium-r-normal--15-140-75-75-c-100-iso8859-1
+sqb.pcf -chris2-sq-bold-r-normal--15-140-75-75-c-100-iso8859-1
 stlarch.pcf -misc-stlarch-medium-r-normal--10-100-75-75-c-80-iso10646-1
 ter-powerline-x12b.pcf.gz -xos4-terminesspowerline-bold-r-normal--12-120-72-72-c-60-iso10646-1
 ter-powerline-x12n.pcf.gz -xos4-terminesspowerline-medium-r-normal--12-120-72-72-c-60-iso10646-1
